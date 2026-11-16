@@ -387,6 +387,16 @@ function tocBox(toc) {
       </nav>`;
 }
 
+function articleNoteBlocks(article) {
+  const sources = article.sources
+    ? `<section class="article-sources" aria-labelledby="article-sources-title">${article.sources.replace(/<h2>Источники<\/h2>/i, '<h2 id="article-sources-title">Источники</h2>')}</section>`
+    : '';
+  const disclaimer = article.disclaimer
+    ? `<section class="article-disclaimer" aria-labelledby="article-disclaimer-title">${article.disclaimer.replace(/^<p>\s*Дисклеймер\s*<\/p>/i, '<h2 id="article-disclaimer-title">Дисклеймер</h2>')}</section>`
+    : '';
+  return sources + disclaimer;
+}
+
 function prevNext(article) {
   const { prev, next } = neighbours(article);
   if (!prev && !next) {
@@ -492,6 +502,8 @@ articles.forEach((article, articleIndex) => {
       <div class="prose">
         ${html}
       </div>
+
+      ${articleNoteBlocks(article)}
 
       ${(article.tags || []).length ? `<div class="article-tags" aria-label="Теги статьи">
         ${(article.tags || []).map((tag) => `<a class="tag" href="../category/${category.slug}.html?tag=${encodeURIComponent(tag.toLowerCase())}">#${esc(tag.toLowerCase())}</a>`).join('')}

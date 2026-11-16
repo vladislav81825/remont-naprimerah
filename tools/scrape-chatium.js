@@ -160,6 +160,41 @@ function findMatchingDiv(html, divStart) {
   return null;
 }
 
+function findMatchingSectionClose(html, sectionStart) {
+  const re = /<section\b|<\/section>/gi;
+  re.lastIndex = sectionStart;
+  let depth = 0;
+  let m;
+  while ((m = re.exec(html))) {
+    if (m[0].toLowerCase() === '<section') {
+      depth += 1;
+    } else {
+      depth -= 1;
+      if (depth === 0) return m.index;
+    }
+  }
+  return -1;
+}
+
+function extractSectionInner(html, heading) {
+  const re = new RegExp(`<(h2|p)\\b[^>]*>\\s*${heading}\\s*</\\1>`, 'i');
+  const m = re.exec(html);
+  if (!m) return null;
+  const sectionStart = html.lastIndexOf('<section', m.index);
+  if (sectionStart < 0) return null;
+  const sectionClose = findMatchingSectionClose(html, sectionStart);
+  if (sectionClose < 0) return null;
+  const innerStart = html.indexOf('>', sectionStart) + 1;
+  return html.slice(innerStart, sectionClose);
+}
+
+function extractExtraSections(html) {
+  return {
+    sources: extractSectionInner(html, 'Источники'),
+    disclaimer: extractSectionInner(html, 'Дисклеймер')
+  };
+}
+
 function extractRawBody(html) {
   const ah = html.indexOf('class="article-html');
   if (ah >= 0) {
@@ -279,6 +314,7 @@ async function main() {
       const authorM = html.match(/<p\s+class="mt-0\.5[^"]*"[^>]*>([^<]+)<\/p>/i);
       const author = authorM ? stripTags(authorM[1]) : '';
 
+      const extras = extractExtraSections(html);
       const rawBody = extractRawBody(html);
       if (!rawBody) throw new Error('не найден текст статьи');
       let body = cleanBody(rawBody);
@@ -332,6 +368,8 @@ async function main() {
         cover: coverFile ? `assets/images/${coverFile}` : null,
         coverAlt: title,
         content: body,
+        sources: extras.sources ? cleanBody(extras.sources) : null,
+        disclaimer: extras.disclaimer ? cleanBody(extras.disclaimer) : null,
         sourceUrl: url
       };
 
@@ -363,7 +401,11 @@ async function main() {
   console.log(`data/articles.json и content/chatium/*.json сохранены`);
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
+}
+
+module.exports = { extractRawBody, extractExtraSections, cleanBody };

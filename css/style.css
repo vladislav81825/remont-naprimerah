@@ -2713,6 +2713,71 @@ svg {
   margin-bottom: 18px;
 }
 
+.article-sources,
+.article-disclaimer {
+  margin-top: 38px;
+  padding: 22px 24px;
+  border: 1px solid var(--line-strong);
+  background: rgba(255, 253, 248, 0.52);
+}
+
+.article-sources h2,
+.article-disclaimer h2 {
+  margin: 0;
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+}
+
+.article-sources p {
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.article-sources ul {
+  display: grid;
+  gap: 8px;
+  margin-top: 14px;
+  padding-left: 20px;
+}
+
+.article-sources li {
+  color: var(--ink-2);
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.article-sources li::marker {
+  color: var(--accent);
+}
+
+.article-sources a {
+  border-bottom: 1px solid rgba(178, 70, 40, 0.35);
+  color: var(--accent);
+  transition: border-color 0.2s ease;
+}
+
+.article-sources a:hover {
+  border-color: var(--accent);
+}
+
+.article-disclaimer {
+  border-left: 3px solid var(--accent);
+  background: rgba(240, 213, 200, 0.22);
+}
+
+.article-disclaimer p {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 13.5px;
+  line-height: 1.65;
+}
+
 .article-tags {
   display: flex;
   flex-wrap: wrap;

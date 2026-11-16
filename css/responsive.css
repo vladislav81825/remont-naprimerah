@@ -665,6 +665,16 @@
     padding: 9px 10px;
   }
 
+  .article-sources,
+  .article-disclaimer {
+    padding: 18px;
+  }
+
+  .article-sources h2,
+  .article-disclaimer h2 {
+    font-size: 18px;
+  }
+
   .author-box {
     padding: 18px;
   }
