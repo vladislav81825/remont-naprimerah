@@ -1,0 +1,429 @@
+{
+  "startedAt": "2026-11-13T16:32:46.623Z",
+  "articles": [],
+  "imagesFailed": [
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_eOPz0UugAY.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\uteplenie-parapeta-na-balkone-i-lodzhii-svoimi-rukami-kak-sdelat-tepluyu-stenku-bez-mostikov-holoda-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_FwLNtzxGSx.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kak-uteplit-okno-i-otkosy-na-balkone-ili-lodzhii-svoimi-rukami-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_j6ic6ayTTs.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kak-ubrat-kondensat-i-syrost-na-balkone-ili-lodzhii-svoimi-rukami-diagnostika-uteplenie-uzlov-i-rabochaya-ventilyatsiya-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_nb7TvgudVM.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kak-sdelat-shkaf-i-sistemu-hraneniya-na-balkone-ili-lodzhii-svoimi-rukami-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_z0byJJcYbL.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kak-sdelat-teplye-otkosy-i-germetichnyy-montazhnyy-shov-na-balkone-ili-lodzhii-svoimi-rukami-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_wJIJLwmUTv.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kak-sdelat-sushilnuyu-zonu-na-balkone-ili-lodzhii-svoimi-rukami-potolochnaya-sushka-vlagostoykaya-otdelka-i-udobnaya-organizatsiya-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_tabWTLN30m.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kak-zamenit-holodnoe-osteklenie-na-teploe-na-balkone-ili-lodzhii-chto-realno-sdelat-svoimi-rukami-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_7Skw8kgpAK.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kak-uteplit-i-otdelat-pol-na-balkone-ili-lodzhii-svoimi-rukami-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_M1F2Bkrx28.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\prisoedinenie-lodzhii-k-komnate-chto-mozhno-sdelat-svoimi-rukami-a-chto-nelzya-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_HaD4147ayd.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kak-sdelat-rabochee-mesto-na-uteplennoy-lodzhii-elektrika-svet-stol-i-otdelka-bez-oshibok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_bRRTyPxx9M.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\balkon-i-lodzhiya-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_m7lrkbrg7E.1536x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\skolko-stoit-ukladka-plitki-v-kvartire-v-2026-godu-podrobnaya-smeta-skrytye-rashody-i-ekonomiya-bez-peredelok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_IpGty3TUQH.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\skolko-stoit-ulozhit-laminat-v-kvartire-v-2026-godu-smeta-po-etapam-skrytye-rashody-i-ekonomiya-bez-skripov-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_kdZF016b6a.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\skolko-stoit-zamena-elektroprovodki-v-kvartire-v-2026-godu-smeta-po-komnatam-skrytye-rashody-i-ekonomiya-bez-peregruza-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_8aKhMKNvyJ.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\skolko-stoit-shumoizolyatsiya-kvartiry-v-2026-godu-smeta-po-konstruktsiyam-skrytye-rashody-i-ekonomiya-bez-poteri-tishiny-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_dk7Tfwi4A2.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\skolko-stoit-styazhka-pola-v-kvartire-v-2026-godu-podrobnaya-smeta-skrytye-rashody-i-ekonomiya-bez-treschin-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_7b4wM01BJj.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\skolko-stoit-remont-balkona-ili-lodzhii-v-2026-godu-smeta-po-etapam-skrytye-rashody-i-ekonomiya-bez-promerzaniya-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_B6jbGq3oBa.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\skolko-stoit-chernovoy-pol-v-kvartire-v-2026-godu-smeta-po-variantam-oshibki-i-gde-ekonomit-bezopasno-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_VpRaDVZy5C.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\skolko-stoit-chernovoy-remont-v-novostroyke-v-2026-godu-smeta-po-etapam-skrytye-rashody-i-razumnaya-ekonomiya-2-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_ZHCCUaltt8.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\skolko-stoit-remont-kvartiry-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_atoeg0xKpz.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\elektrika-v-gostinoy-kak-splanirovat-rozetki-osveschenie-i-stsenarii-sveta-bez-udliniteley-i-peredelok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_rdeb3VRddY.1024x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\elektrika-v-detskoy-komnate-kak-splanirovat-rozetki-svet-i-zaschitu-bez-opasnyh-melochey-i-peredelok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_OhhBhFVtKA.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\elektrika-v-garderobnoy-i-kladovoy-kak-sdelat-svet-rozetki-i-ventilyatsiyu-udobno-i-bezopasno-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_aNSHptTbpc.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\elektrika-na-balkone-i-lodzhii-kak-bezopasno-provesti-svet-rozetki-i-teplyy-pol-pri-remonte-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_WDS7u3fd1p.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\elektrika-v-spalne-kak-splanirovat-rozetki-svet-i-stsenarii-bez-udliniteley-i-peredelok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_m1anQY039k.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\elektrika-pri-remonte-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_ORsQd5OAch.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\gostinaya-s-mestom-dlya-hraneniya-kak-splanirovat-shkafy-tumby-i-stellazhi-bez-peregruza-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_S16q9ZHSlz.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\gostinaya-s-televizorom-kak-pravilno-splanirovat-tv-zonu-rozetki-svet-i-rasstoyanie-do-divana-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_Ajwe6PMYW7.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\gostinaya-s-detskim-ugolkom-kak-vydelit-mesto-dlya-igr-i-hraneniya-ne-prevraschaya-komnatu-v-haos-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_CD0zNSbErG.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\gostinaya-s-obedennoy-zonoy-kak-razmestit-stol-stulya-i-hranenie-bez-tesnoty-i-sluchaynyh-oshibok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_RIVxv65b56.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\gostinaya-s-kaminom-kak-sdelat-krasivuyu-i-bezopasnuyu-fokusnuyu-zonu-v-kvartire-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_QhrJoVbaUb.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\gostinaya-s-uglovym-divanom-kak-vybrat-razmer-postavit-bez-oshibok-i-sohranit-udobnye-prohody-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_LXkmbDhG5y.1536x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\gostinaya-s-bolshim-divanom-kak-vybrat-razmer-rasstavit-mebel-i-ne-peregruzit-komnatu-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_FcfmNsAH3o.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\gostinaya-s-dvumya-stsenariyami-sveta-kak-splanirovat-osveschenie-dlya-otdyha-gostey-i-povsednevnoy-zhizni-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_9JuYRx11y5.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\gostinaya-s-bibliotekoy-kak-razmestit-knigi-kreslo-dlya-chteniya-i-hranenie-bez-oschuscheniya-peregruza-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_733aua8ib8.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\gostinaya-s-rabochim-mestom-kak-vpisat-stol-hranenie-i-ne-prevratit-komnatu-v-ofis-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_SX6boJQrqw.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\zonirovanie-gostinoy-bez-peregorodok-kak-razdelit-komnatu-na-otdyh-rabotu-i-hranenie-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_mamUDKi91e.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kak-sdelat-prohodnuyu-gostinuyu-udobnoy-planirovka-mebel-i-zonirovanie-bez-tesnoty-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_Sau5UcLSU0.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\gostinaya-posle-remonta-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_Rnkk7exyDK.1280x853.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kuhnya-v-dve-linii-kak-splanirovat-parallelnyy-garnitur-bez-tesnoty-i-lishnih-metrov-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_Pnl8u05a5D.1536x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kuhnya-9-m²-s-posudomoechnoy-mashinoy-kak-vstroit-tehniku-i-ne-poteryat-hranenie-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_UMpTlvXJQK.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kuhnya-s-otdelno-stoyaschim-holodilnikom-kak-vpisat-tehniku-v-garnitur-i-ne-poteryat-udobstvo-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_bwtbRWB7ed.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kuhnya-s-uzkim-prohodom-kak-splanirovat-garnitur-tehniku-i-hranenie-chtoby-ne-bylo-tesno-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_KLpGJCDKFV.1536x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kuhnya-bez-verhnih-shkafov-kak-splanirovat-hranenie-svet-i-fartuk-bez-poteri-udobstva-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_qYkq1kiN8x.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kuhnya-s-poluostrovom-komu-podhodit-skolko-mesta-nuzhno-i-kak-ne-sdelat-neudobnyy-prohod-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_k8oy5PLDpU.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kuhnya-s-ostrovom-v-kvartire-kogda-ona-deystvitelno-udobna-skolko-mesta-trebuet-i-kak-ne-isportit-prohody-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_GXN9Taneb5.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\keramicheskaya-plitka-dlya-fartuka-na-kuhne-kak-vybrat-format-poverhnost-i-ne-pozhalet-posle-ukladki-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_0qCdDQaaRG.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\keramogranit-dlya-pola-v-kvartire-kak-vybrat-po-tolschine-formatu-i-klassu-iznosostoykosti-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_bryexR96vl.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kraska-dlya-potolka-v-kvartire-kakuyu-vybrat-chem-otlichayutsya-sostavy-i-kak-ne-poluchit-polosy-pyatna-i-lishnie-rashody-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_avgeVLy28j.1536x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\keramogranit-pod-derevo-v-kvartire-gde-on-udoben-chem-otlichaetsya-ot-plitki-i-laminata-i-kogda-luchshe-vybrat-ne-ego-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_apwkGb9Pqh.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\laminat-33-klassa-dlya-kvartiry-kogda-on-opravdan-chem-otlichaetsya-ot-32-klassa-i-za-chto-ne-stoit-pereplachivat-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_GJeOABB4FC.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\oboi-pod-pokrasku-v-kvartire-kakie-vybrat-skolko-eto-stoit-i-kogda-oni-luchshe-obychnoy-otdelki-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_eqwJRmhukn.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kvartsvinil-dlya-kvartiry-gde-on-deystvitelno-udoben-chem-otlichaetsya-ot-lvt-i-kogda-luchshe-vybrat-ne-ego-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_SMiYX6yeuQ.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\inzhenernaya-doska-v-kvartire-gde-ona-opravdana-chem-otlichaetsya-ot-parketnoy-i-kogda-luchshe-vybrat-ne-derevo-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_QBMzvWJOfJ.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\krupnoformatnaya-plitka-v-kvartire-gde-ona-deystvitelno-udobna-skolko-stoit-i-kakie-oshibki-dorogo-obhodyatsya-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_FfbhaIk4jG.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\spc-laminat-dlya-kvartiry-gde-on-udoben-chem-otlichaetsya-ot-kvartsvinila-i-kogda-luchshe-ne-pereplachivat-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_ZIbFhsA9DL.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\steklooboi-pod-pokrasku-gde-oni-deystvitelno-udobny-i-kak-ne-isportit-rezultat-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_satoA23ezs.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\vinilovye-oboi-na-flizelinovoy-osnove-gde-oni-udobny-a-gde-tolko-dobavyat-problem-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_LAS4GNpFVe.1536x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\podklyuchenie-polotentsesushitelya-kak-sdelat-razvodku-trub-pravilno-i-ne-ostatsya-s-holodnoy-vannoy-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_CeQXXKP4qX.1536x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\podklyuchenie-stiralnoy-mashiny-kak-sdelat-razvodku-vody-i-sliv-bez-protechek-i-vibratsii-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_hD0TWvUHP5.1536x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\podklyuchenie-posudomoechnoy-mashiny-kak-sdelat-razvodku-vody-i-sliv-bez-protechek-i-zapaha-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_0R7DoSteIh.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\razvodka-trub-dlya-installyatsii-unitaza-kak-pravilno-podvesti-vodu-i-kanalizatsiyu-bez-peredelok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_nDbc8USkAp.1536x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\razvodka-trub-dlya-rakoviny-v-vannoy-kak-pravilno-vyvesti-vodu-i-kanalizatsiyu-pod-tumbu-bez-peredelok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_h7SJkV2P4w.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\podklyuchenie-vodonagrevatelya-v-kvartire-kak-sdelat-razvodku-vody-i-ustanovit-boyler-bez-oshibok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_dAHXDduKd4.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\smesitel-na-kuhne-i-v-vannoy-kak-pravilno-vyvesti-vodu-iz-steny-i-ne-promahnutsya-s-vysotoy-osyami-i-otdelkoy-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_Obl035KaVy.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\razvodka-vody-dlya-dushevoy-zony-kak-podvesti-truby-k-dushu-tropicheskoy-leyke-i-vstroennomu-smesitelyu-bez-peredelok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_ZbzEkJz9jo.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\razvodka-kanalizatsii-v-kvartire-kak-prolozhit-truby-k-vannoy-rakovine-i-kuhne-bez-zapahov-i-zasorov-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_3TaCtCzEt4.1024x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\skrytyy-lyuk-v-vannoy-i-revizionnyy-dostup-k-santehnike-kak-sdelat-chtoby-ne-lomat-plitku-pri-pervoy-avarii-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_bzUuEaelud.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\uzel-vvoda-vody-v-kvartire-kak-sobrat-filtry-reduktor-i-zaschitu-ot-protechek-bez-lishnih-detaley-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_0O8WIPgdre.3840x2160.jpeg/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\remont-vannoy-i-sanuzla-kak-sdelat-korob-iz-gkl-dlya-trub-i-installyatsii-bez-treschin-lyufta-i-poteri-dostupa-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_VyvTjxB1KT.1536x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\remont-vannoy-i-sanuzla-kak-vybrat-i-ustanovit-vannu-bez-skripov-perekosov-i-protechek-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_G9L62ovhzH.1536x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\remont-vannoy-i-sanuzla-ustanovka-installyatsii-dlya-unitaza-bez-peredelok-protechek-i-slaboy-ramy-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_VnrKBDExca.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\remont-vannoy-i-sanuzla-kak-vybrat-i-ustanovit-teplyy-pol-pod-plitku-bez-peregreva-treschin-i-lishnih-zatrat-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_br5RhIrHjd.1536x1024.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\remont-vannoy-i-sanuzla-kak-vybrat-i-ulozhit-plitku-bez-perekosov-pustot-i-pererashoda-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_j2sZvhAEA7.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\remont-vannoy-i-sanuzla-kak-sdelat-gidroizolyatsiyu-v-vannoy-bez-protechek-gribka-i-peredelok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_RE6wPHoq5C.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\zamena-trub-i-razvodka-santehniki-v-vannoy-i-sanuzle-kak-splanirovat-vodu-i-kanalizatsiyu-bez-peredelok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_Q01GN269Om.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\vannaya-komnata-s-dushevoy-kabinoy-bez-poddona-kak-sdelat-sliv-v-polu-gidroizolyatsiyu-i-ne-poluchit-protechki-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_YtU7G6epu1.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\dushevoy-poddon-iz-plitki-v-vannoy-kak-sdelat-osnovanie-uklon-gidroizolyatsiyu-i-ne-poluchit-luzhi-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_v1ObiTVTD9.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\vannaya-v-novostroyke-bez-peredelok-chto-proverit-do-plitki-i-kak-ne-poteryat-garantiyu-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_mpinfabIvL.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\kak-sdelat-teplyy-pol-v-vannoy-bez-oshibok-elektricheskiy-kabel-maty-termoregulyator-i-ukladka-pod-plitku-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_8AJIacrmIG.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\sovmeschennyy-sanuzel-v-tipovoy-kvartire-kak-umestit-vannu-hranenie-i-stiralnuyu-mashinu-bez-oshibok-cover.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://fs.chatium.ru/thumbnail/image_msk_w04Y4C83LD.1280x704.png/s/1200x",
+      "dest": "C:\\Users\\Vlad\\Desktop\\ПРОЕКТЫ ОПЕНКОД\\REMONT\\assets\\images\\vannaya-s-nulya-cover.jpg",
+      "error": "HTTP 404"
+    }
+  ],
+  "parseFailed": [],
+  "categories": {
+    "balkon": 20,
+    "budget": 19,
+    "elektrika": 17,
+    "gostinaya": 20,
+    "kuhnya": 23,
+    "materialy": 22,
+    "santehnika": 23,
+    "vannaya": 26
+  },
+  "finishedAt": "2026-11-13T16:33:50.575Z",
+  "total": 170
+}

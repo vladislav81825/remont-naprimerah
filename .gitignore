@@ -1,0 +1,7 @@
+content/chatium-raw/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+ЗАДАЧА РЕМОНТ.txt
+ПОДАРКИ ПРОМТ САЙТА.docx

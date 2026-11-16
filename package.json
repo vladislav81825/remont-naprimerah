@@ -1,0 +1,19 @@
+{
+  "name": "remont-na-primerah",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Статический журнал о ремонте квартиры",
+  "scripts": {
+    "prepare": "node tools/prepare-data.js",
+    "build": "node tools/generate.js",
+    "rss": "node js/rss.js",
+    "validate": "node tools/validate.js",
+    "serve": "node tools/server.js",
+    "start": "node tools/server.js",
+    "covers": "powershell -ExecutionPolicy Bypass -File tools/generate-covers.ps1",
+    "og": "powershell -ExecutionPolicy Bypass -File tools/generate-og.ps1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
